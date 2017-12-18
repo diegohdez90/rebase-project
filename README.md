@@ -4,6 +4,8 @@ This is a repository about using rebase.
 
 This README is create in `readme` branch. This branch is father of `development` branch and this is father of `master ` branch.
 
+This README is for `development` branch.
+
 Developer: Diego Arturo Hernandez Fuentes
 
 Twitter: [@DiegoAHernandez](https://twitter.com/DiegoAHernandez)
